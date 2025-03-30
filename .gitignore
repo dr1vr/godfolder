@@ -1,0 +1,12 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+
+# Save files
+world.json
+
+# OS generated files
+.DS_Store
